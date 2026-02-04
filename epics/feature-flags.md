@@ -16,11 +16,12 @@ Search for `#feature-flag` tag across all projects.
 
 | Project | Task | Status |
 |---------|------|--------|
-| Redis Auth (BE) | Add auth to Redis client | To Do |
-| Redis Auth (BE) | Add auth to REST endpoints | To Do |
+| Redis Auth (BE) | Add auth to Redis client | Done |
+| Redis Auth (BE) | Add auth to REST endpoints | Done |
 | RestHub (BE) | Add feature flag Redis code to RestHub | To Do |
 | Blazor (BE) | Add feature flag page | Backlog |
 | Feature Flags (FE) | Remove Redis service when BE RestHub is up | To Do |
+| Feature Flag WebSocket (FE) | Deliver flags via WebSocket instead of Redis | To Do |
 
 ## Security Concerns
 

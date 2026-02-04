@@ -28,8 +28,11 @@ Blazor application project.
 - [ ] `P1` Add GSMA changes - utilize AD for SQL access
 
 ### In Progress
-- [ ] `P1` Deploying changes to dev Blazor on server (follow up tomorrow)
-- [ ] `P1` **PROD ISSUE** - Option expirations page issue (branch: feature/options-expirations-page-restore) - checking with Toby
+- [ ] `P1` Push options expirations page changes to dev (Toby approved)
+- [ ] `P1` **INVESTIGATION** - Build/publish pipeline options:
+  - Find msbuild for publish script, OR
+  - Use Jenkins for compilation
+  - Output to Gitea or similar
 
 ### Done
 - [x] Create project note
@@ -55,6 +58,15 @@ Blazor application project.
 - Finished merge with Toby's code into dev
 - Deploying changes to dev Blazor server (follow up tomorrow)
 - **PROD ISSUE**: Option expirations page
+
+### 2026-02-04
+
+- Toby approved pushing options expirations page to dev
+- Toby suggested investigating build pipeline:
+  - Option A: Find msbuild for publish script
+  - Option B: Use Jenkins for compilation
+  - Store output in Gitea or similar
+- Need to investigate and clarify approach
 
 ## Links & Resources
 

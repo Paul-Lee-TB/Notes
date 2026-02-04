@@ -22,6 +22,7 @@ Mobile setup and configuration.
 - [ ] 
 
 ### To Do
+- [ ] `P1` Check WebSocket in mobile before beta deploy
 - [ ] `P3` iOS setup
 
 ### In Progress
